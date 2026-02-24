@@ -1,0 +1,2 @@
+start_delimiter: "Objetos de directiva de grupo aplicados"
+end_delimiter: "Los objetos GPO siguientes no se aplicaron porque fueron filtrados"
